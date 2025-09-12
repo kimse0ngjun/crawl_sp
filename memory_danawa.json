@@ -1,0 +1,389 @@
+[
+    {
+        "name": "ESSENCORE KLEVV DDR5-5600 CL46 파인인포",
+        "image": "http://img.danawa.com/prod_img/500000/774/965/img/18965774_1.jpg?shrink=330:*&_v=20240911124521",
+        "pop_rank": 1,
+        "reg_date": "2023.02.",
+        "options": {
+            "manufacturer": "ESSENCORE",
+            "usage": "데스크탑용",
+            "memory_type": "DDR5",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "16GB",
+            "speed": "5600MHz (PC5-44800)",
+            "timing": "CL46-46-46-90",
+            "voltage": "1.10V",
+            "modules": "1개",
+            "on_die_ecc": true,
+            "heatsink": false,
+            "height": "31.25mm",
+            "thickness": "3.18mm"
+        },
+        "price_info": [
+            {
+                "option": "32GB",
+                "price": "143000",
+                "pcode": "27913391",
+                "link": "https://www.coupang.com/vp/products/7660435885?itemId=20407160744&vendorItemId=87576929500&src=1032034&spec=10305198&addtag=400&ctag=7660435885&lptag=I20407160744&itime=20250912121906&pageType=PRODUCT&pageValue=7660435885&wPcid=17576471386561170890439&wRef=prod.danawa.com&wTime=20250912121906&redirect=landing&mcid=c2a639db08e9451ea35a451eaf9fbe06"
+            },
+            {
+                "option": "16GB",
+                "price": "61000",
+                "pcode": "18965774",
+                "link": "https://www.coupang.com/vp/products/7187052730?itemId=24895007498&vendorItemId=93416221587&src=1032034&spec=10305198&addtag=400&ctag=7187052730&lptag=I24895007498&itime=20250912121911&pageType=PRODUCT&pageValue=7187052730&wPcid=17576471386561170890439&wRef=prod.danawa.com&wTime=20250912121911&redirect=landing&mcid=84d053b069ef47a99300a0c80bdd6f4d"
+            }
+        ]
+    },
+    {
+        "name": "TeamGroup DDR5-5600 CL46 Elite 서린",
+        "image": "http://img.danawa.com/prod_img/500000/839/535/img/17535839_1.jpg?shrink=330:*&_v=20220726132209",
+        "pop_rank": 2,
+        "reg_date": "2022.07.",
+        "options": {
+            "manufacturer": "TeamGroup",
+            "usage": "데스크탑용",
+            "memory_type": "DDR5",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "16GB",
+            "speed": "5600MHz (PC5-44800)",
+            "timing": "CL46-46-46-90",
+            "voltage": "1.10V",
+            "modules": "1개",
+            "on_die_ecc": true,
+            "heatsink": false,
+            "height": "32mm"
+        },
+        "price_info": [
+            {
+                "option": "32GB",
+                "price": "122200",
+                "pcode": "27545627",
+                "link": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=27545627&marketPlaceSeq=59&memberId=PXC10"
+            },
+            {
+                "option": "16GB",
+                "price": "66920",
+                "pcode": "17535839",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=C964023007&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "8GB",
+                "price": "33420",
+                "pcode": "33369683",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7825580525&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7825580525&XSITE=1000000081&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "ESSENCORE KLEVV DDR5-6000 CL30 URBANE V RGB 패키지 서린",
+        "image": "http://img.danawa.com/prod_img/500000/681/587/img/72587681_1.jpg?shrink=330:*&_v=20250911111825",
+        "pop_rank": 3,
+        "reg_date": "2024.12.",
+        "options": {
+            "manufacturer": "ESSENCORE",
+            "usage": "데스크탑용",
+            "memory_type": "DDR5",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "32GB",
+            "speed": "6000MHz (PC5-48000)",
+            "timing": "CL30-36-36-76",
+            "voltage": "1.35V",
+            "modules": "2개",
+            "led_light": true,
+            "xmp3": true,
+            "expo": true,
+            "on_die_ecc": true,
+            "heatsink": "방열판",
+            "heatsink_color": "화이트",
+            "led_color": "RGB",
+            "height": "42.5mm",
+            "thickness": "8.2mm"
+        },
+        "price_info": [
+            {
+                "option": "48GB(24Gx2)",
+                "price": "234990",
+                "pcode": "78849281",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=8167380460&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F8167380460&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "32GB(16Gx2)",
+                "price": "189000",
+                "pcode": "72587681",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11779273594&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "삼성전자 micro SD EVO Plus 2024",
+        "image": "http://img.danawa.com/prod_img/500000/027/570/img/62570027_1.jpg?shrink=330:*&_v=20240807101714",
+        "pop_rank": 4,
+        "reg_date": "2024.08.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "메모리종류": "micro SDXC",
+            "시리즈": "EVO Plus",
+            "메모리용량": "1TB",
+            "모델명": "모델:MB-MC1T0SA",
+            "읽기속도": "읽기:160MB/s",
+            "CLASS속도": "CLASS10",
+            "속도타입": "UHS-I(U3)",
+            "영상쓰기속도": "V30",
+            "4K촬영용": true,
+            "기능": "기능",
+            "데이터보호": true,
+            "충격보호": true,
+            "생활방수": true,
+            "SD어댑터포함": true,
+            "고사양앱구동(A2)": true,
+            "보증기간": "10년"
+        },
+        "price_info": [
+            {
+                "option": "1TB",
+                "price": "102430",
+                "pcode": "62570027",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10679531698&service_id=pcdn"
+            },
+            {
+                "option": "512GB",
+                "price": "44710",
+                "pcode": "45874493",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10186287779&service_id=pcdn"
+            },
+            {
+                "option": "256GB",
+                "price": "27240",
+                "pcode": "45874490",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=6984203313&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F6984203313&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "128GB",
+                "price": "15020",
+                "pcode": "45874484",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E296946749&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "64GB",
+                "price": "10820",
+                "pcode": "45874436",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10160237986&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "ESSENCORE KLEVV DDR4-3200 CL22 파인인포",
+        "image": "http://img.danawa.com/prod_img/500000/091/787/img/11787091_1.jpg?shrink=330:*&_v=20241022144728",
+        "pop_rank": 5,
+        "reg_date": "2020.07.",
+        "options": {
+            "manufacturer": "ESSENCORE",
+            "usage": "데스크탑용",
+            "memory_type": "DDR4",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "16GB",
+            "speed": "3200MHz (PC4-25600)",
+            "timing": "CL22-22-22-51",
+            "voltage": "1.20V",
+            "modules": "1개",
+            "heatsink": false
+        },
+        "price_info": [
+            {
+                "option": "32GB",
+                "price": "128390",
+                "pcode": "14858474",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=4715508824&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F4715508824&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "16GB",
+                "price": "48480",
+                "pcode": "11787091",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7966659683&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7966659683&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "8GB",
+                "price": "27180",
+                "pcode": "11787049",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=C956480106&sub-id=2&service-code=10000000&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "N/A",
+        "image": "N/A",
+        "pop_rank": 6,
+        "reg_date": "N/A",
+        "options": {},
+        "price_info": []
+    },
+    {
+        "name": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지 대원씨티에스",
+        "image": "http://img.danawa.com/prod_img/500000/066/369/img/20369066_1.jpg?shrink=330:*&_v=20231201123820",
+        "pop_rank": 7,
+        "reg_date": "2023.05.",
+        "options": {
+            "manufacturer": "마이크론",
+            "usage": "데스크탑용",
+            "memory_type": "DDR5",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "32GB",
+            "speed": "5600MHz (PC5-44800)",
+            "timing": "CL46-45-45",
+            "voltage": "1.10V",
+            "modules": "2개",
+            "xmp3": true,
+            "expo": true,
+            "on_die_ecc": true,
+            "heatsink": "방열판",
+            "heatsink_color": "블랙",
+            "height": "31.9mm"
+        },
+        "price_info": [
+            {
+                "option": "96GB(48Gx2)",
+                "price": "399280",
+                "pcode": "28640573",
+                "link": "https://www.coupang.com/vp/products/8797382718?itemId=22876634206&vendorItemId=92724447001&src=1032034&spec=10305199&addtag=400&ctag=8797382718&lptag=I22876634206&itime=20250912122116&pageType=PRODUCT&pageValue=8797382718&wPcid=17576471386561170890439&wRef=prod.danawa.com&wTime=20250912122116&redirect=landing&mcid=59145a07c708469aad0c6951c3426669"
+            },
+            {
+                "option": "64GB(32Gx2)",
+                "price": "276080",
+                "pcode": "28640552",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E872822975&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "32GB(16Gx2)",
+                "price": "138170",
+                "pcode": "20369066",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=D445604699&sub-id=2&service-code=10000000&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "삼성전자 DDR5-5600",
+        "image": "http://img.danawa.com/prod_img/500000/780/911/img/18911780_1.jpg?shrink=330:*&_v=20250911111432",
+        "pop_rank": 8,
+        "reg_date": "2023.02.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "usage": "데스크탑용",
+            "memory_type": "DDR5",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "16GB",
+            "speed": "5600MHz (PC5-44800)",
+            "modules": "1개",
+            "heatsink": false
+        },
+        "price_info": [
+            {
+                "option": "32GB",
+                "price": "173080",
+                "pcode": "20644043",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=8142942057&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F8142942057&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "수량별배송비 32GB",
+                "price": "175750",
+                "pcode": "77791268",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=D432413444&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "16GB",
+                "price": "71380",
+                "pcode": "18911780",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3678372850&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            },
+            {
+                "option": "수량별배송비 16GB",
+                "price": "72620",
+                "pcode": "77791265",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=8135745332&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F8135745332&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "8GB",
+                "price": "41040",
+                "pcode": "18911771",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7978299299&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7978299299&XSITE=1000000081&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "TeamGroup T-CREATE DDR5-5600 CL46 CLASSIC 패키지 서린",
+        "image": "http://img.danawa.com/prod_img/500000/122/566/img/19566122_1.jpg?shrink=330:*&_v=20241206135200",
+        "pop_rank": 9,
+        "reg_date": "2023.03.",
+        "options": {
+            "manufacturer": "TeamGroup",
+            "usage": "데스크탑용",
+            "memory_type": "DDR5",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "32GB",
+            "speed": "5600MHz (PC5-44800)",
+            "timing": "CL46-46-46-90",
+            "voltage": "1.10V",
+            "modules": "2개",
+            "on_die_ecc": true,
+            "heatsink": "방열판",
+            "heatsink_color": "블랙",
+            "height": "32mm",
+            "thickness": "7mm"
+        },
+        "price_info": [
+            {
+                "option": "64GB(32Gx2)",
+                "price": "290000",
+                "pcode": "19566335",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4425754382&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            },
+            {
+                "option": "32GB(16Gx2)",
+                "price": "138000",
+                "pcode": "19566122",
+                "link": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=19566122&marketPlaceSeq=59&memberId=PXC10"
+            }
+        ]
+    },
+    {
+        "name": "삼성전자 DDR4-3200",
+        "image": "http://img.danawa.com/prod_img/500000/857/541/img/11541857_1.jpg?shrink=330:*&_v=20250418095059",
+        "pop_rank": 10,
+        "reg_date": "2020.06.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "usage": "데스크탑용",
+            "memory_type": "DDR4",
+            "form_factor": "DIMM(UDIMM)",
+            "capacity": "8GB",
+            "speed": "3200MHz (PC4-25600)",
+            "modules": "1개",
+            "heatsink": false
+        },
+        "price_info": [
+            {
+                "option": "32GB",
+                "price": "125620",
+                "pcode": "11028636",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7505407712&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7505407712&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "16GB",
+                "price": "86000",
+                "pcode": "11790199",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F12281520711&service_id=pcdn"
+            },
+            {
+                "option": "8GB",
+                "price": "36210",
+                "pcode": "11541857",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=6722120082&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F6722120082&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "4GB",
+                "price": "12000",
+                "pcode": "13122602",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F9475381095&service_id=pcdn"
+            }
+        ]
+    }
+]

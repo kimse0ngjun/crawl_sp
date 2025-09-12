@@ -1,0 +1,816 @@
+[
+    {
+        "page": 1,
+        "name": "DAVEN AQUA 다이버",
+        "image": "http://img.danawa.com/prod_img/500000/303/426/img/65426303_1.jpg?shrink=330:*&_v=20250729132647",
+        "pop_rank": 1,
+        "reg_date": "2024.09.",
+        "manufacturer": "DAVEN",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "E-ATX": true,
+            "ATX": true,
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "400mm",
+            "CPU쿨러 높이": "165mm",
+            "케이스 크기": "미들타워",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "2개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 4개",
+            "PCI 슬롯(수평)": "7개",
+            "전면 패널 타입": "강화유리",
+            "측면 패널 타입": "강화유리",
+            "측면 개폐 방식": "버튼",
+            "먼지필터": "전체",
+            "쿨링팬": "총3개",
+            "LED팬": "3개",
+            "후면": "120mm LED x1",
+            "내부 측면": "120mm LED x2",
+            "USB2.0": true,
+            "USB3.x 5Gbps": true,
+            "너비(W)": "215mm",
+            "깊이(D)": "425mm",
+            "높이(H)": "490mm",
+            "파워 장착 길이": "220mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm, 280mm",
+            "라디에이터(후면)": "최대120mm",
+            "[부가기능]": "[부가기능]"
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "37,910",
+                "pcode": "65426303",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4146242754&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            },
+            {
+                "option": "화이트",
+                "price": "44,030",
+                "pcode": "65426339",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4146247366&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "37,910",
+            "pcode": "65426303",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4146242754&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 2,
+        "name": "DAVEN AQUA 다이버",
+        "image": "http://img.danawa.com/prod_img/500000/303/426/img/65426303_1.jpg?shrink=330:*&_v=20250729132647",
+        "pop_rank": 1,
+        "reg_date": "2024.09.",
+        "manufacturer": "DAVEN",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "E-ATX": true,
+            "ATX": true,
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "400mm",
+            "CPU쿨러 높이": "165mm",
+            "케이스 크기": "미들타워",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "2개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 4개",
+            "PCI 슬롯(수평)": "7개",
+            "전면 패널 타입": "강화유리",
+            "측면 패널 타입": "강화유리",
+            "측면 개폐 방식": "버튼",
+            "먼지필터": "전체",
+            "쿨링팬": "총3개",
+            "LED팬": "3개",
+            "후면": "120mm LED x1",
+            "내부 측면": "120mm LED x2",
+            "USB2.0": true,
+            "USB3.x 5Gbps": true,
+            "너비(W)": "215mm",
+            "깊이(D)": "425mm",
+            "높이(H)": "490mm",
+            "파워 장착 길이": "220mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm, 280mm",
+            "라디에이터(후면)": "최대120mm",
+            "[부가기능]": "[부가기능]"
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "37,910",
+                "pcode": "65426303",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4146242754&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            },
+            {
+                "option": "화이트",
+                "price": "44,030",
+                "pcode": "65426339",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4146247366&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "37,910",
+            "pcode": "65426303",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4146242754&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 3,
+        "name": "JONSBO N5",
+        "image": "http://img.danawa.com/prod_img/500000/584/436/img/68436584_1.jpg?shrink=330:*&_v=20241014151515",
+        "pop_rank": "N/A",
+        "reg_date": "2024.10.",
+        "manufacturer": "JONSBO",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "E-ATX": true,
+            "ATX": true,
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "350mm",
+            "CPU쿨러 높이": "160mm",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "12개",
+            "6.4cm베이": "4개",
+            "저장장치 장착": "16개",
+            "PCI 슬롯(수평)": "8개",
+            "전면 패널 타입": "메쉬",
+            "측면 패널 타입": "통풍구",
+            "먼지필터": "부분",
+            "쿨링팬": "총3개",
+            "후면": "120mm x3",
+            "USB3.x 5Gbps": true,
+            "USB C타입 10Gbps": true,
+            "너비(W)": "355mm",
+            "깊이(D)": "403mm",
+            "높이(H)": "350mm",
+            "파워 장착 길이": "240mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대2열 지원",
+            "라디에이터(전면)": "최대280mm, 240mm"
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "266,000",
+                "pcode": "68436584",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4182831578&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "266,000",
+            "pcode": "68436584",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4182831578&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 4,
+        "name": "앱코 SUITMASTER U3000M 갤러리 미니 리버스 ARGB BTF",
+        "image": "http://img.danawa.com/prod_img/500000/412/336/img/34336412_1.jpg?shrink=330:*&_v=20240605133545",
+        "pop_rank": "N/A",
+        "reg_date": "2024.01.",
+        "manufacturer": "앱코",
+        "type": "케이스",
+        "options": {
+            "product_type": "M-ATX 케이스",
+            "M-ATX": true,
+            "M-ATX (후면커넥터)": true,
+            "M-ITX": true,
+            "VGA 길이": "390mm",
+            "CPU쿨러 높이": "168mm",
+            "케이스 크기": "미니타워",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "BTF": true,
+            "8.9cm베이": "1개",
+            "6.4cm베이": "1개",
+            "저장장치 장착": "최대 2개",
+            "PCI 슬롯(수평)": "5개",
+            "전면 패널 타입": "강화유리",
+            "측면 패널 타입": "강화유리",
+            "쿨링팬": "총4개",
+            "LED팬": "4개",
+            "후면": "140mm LED x1",
+            "내부 측면": "120mm LED x3",
+            "USB3.x 5Gbps": true,
+            "USB C타입 5Gbps": true,
+            "너비(W)": "235mm",
+            "깊이(D)": "465mm",
+            "높이(H)": "430mm",
+            "파워 장착 길이": "260mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm, 280mm",
+            "라디에이터(후면)": "최대140mm, 120mm",
+            "[부가기능]": "[부가기능]"
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "69,900",
+                "pcode": "34336412",
+                "link": "https://www.coupang.com/vp/products/8549589721?itemId=21861072189&vendorItemId=88909281134&src=1032034&spec=10305199&addtag=400&ctag=8549589721&lptag=V88909281134&itime=20250912183813&pageType=PRODUCT&pageValue=8549589721&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912183813&redirect=landing&mcid=cab85eeb276049ccb3c036b1aebdb593"
+            },
+            {
+                "option": "화이트",
+                "price": "74,000",
+                "pcode": "34336442",
+                "link": "https://www.coupang.com/vp/products/7905165579?itemId=21861072298&vendorItemId=88909281249&src=1032034&spec=10305199&addtag=400&ctag=7905165579&lptag=I21861072298&itime=20250912183820&pageType=PRODUCT&pageValue=7905165579&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912183820&redirect=landing&mcid=e02c6fa7ded24ec0ae9673fcf0fcf68c"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "69,900",
+            "pcode": "34336412",
+            "link": "https://www.coupang.com/vp/products/8549589721?itemId=21861072189&vendorItemId=88909281134&src=1032034&spec=10305199&addtag=400&ctag=8549589721&lptag=V88909281134&itime=20250912183813&pageType=PRODUCT&pageValue=8549589721&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912183813&redirect=landing&mcid=cab85eeb276049ccb3c036b1aebdb593"
+        }
+    },
+    {
+        "page": 5,
+        "name": "NZXT H9 Elite",
+        "image": "http://img.danawa.com/prod_img/500000/768/556/img/79556768_1.jpg?shrink=330:*&_v=20250523173625",
+        "pop_rank": "N/A",
+        "reg_date": "2025.04.",
+        "manufacturer": "NZXT",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "ATX": true,
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "435mm",
+            "CPU쿨러 높이": "165mm",
+            "케이스 크기": "미들타워",
+            "파워포함여부": false,
+            "8.9cm베이": "2개",
+            "6.4cm베이": "4개",
+            "저장장치 장착": "최대 6개",
+            "PCI 슬롯(수평)": "7개",
+            "전면 패널 타입": "강화유리",
+            "측면 패널 타입": "강화유리",
+            "먼지필터": "전체",
+            "쿨링팬": "총4개",
+            "LED팬": "3개",
+            "후면": "120mm x1",
+            "내부 측면": "120mm LED x3",
+            "USB3.x 5Gbps": true,
+            "USB C타입 20Gbps": true,
+            "너비(W)": "290mm",
+            "깊이(D)": "466mm",
+            "높이(H)": "495mm",
+            "파워 장착 길이": "200mm",
+            "파워 위치": "상단",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm",
+            "라디에이터(후면)": "최대120mm",
+            "라디에이터(측면)": "최대360mm",
+            "라디에이터(하단)": "최대360mm",
+            "[부가기능]": "[부가기능]",
+            "팬 컨트롤": true,
+            "RGB 컨트롤": true
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "381,980",
+                "pcode": "79556762",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4525324191&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            },
+            {
+                "option": "화이트",
+                "price": "378,970",
+                "pcode": "79556768",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4525325329&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "화이트",
+            "price": "378,970",
+            "pcode": "79556768",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4525325329&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 6,
+        "name": "Antec P20CE ELITE 6FAN METAL MESH SOLID",
+        "image": "http://img.danawa.com/prod_img/500000/459/728/img/18728459_1.jpg?shrink=330:*&_v=20250602151230",
+        "pop_rank": "N/A",
+        "reg_date": "2023.01.",
+        "manufacturer": "Antec",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "E-ATX": true,
+            "ATX": true,
+            "M-ATX": true,
+            "ITX": true,
+            "VGA 길이": "320~375mm",
+            "CPU쿨러 높이": "170mm",
+            "케이스 크기": "미들타워",
+            "8.9cm베이": "2개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 4개",
+            "PCI 슬롯(수평)": "7개",
+            "측면 패널 타입": "강철",
+            "먼지필터": "전체",
+            "쿨링팬": "총6개",
+            "후면": "120mm x1",
+            "전면": "120mm x3",
+            "하단": "120mm x2",
+            "USB C타입 10Gbps": true,
+            "너비(W)": "220mm",
+            "깊이(D)": "469mm",
+            "높이(H)": "490mm",
+            "파워 장착 길이": "205~410mm",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm, 280mm",
+            "라디에이터(전면)": "최대360mm, 280mm",
+            "라디에이터(후면)": "최대120mm"
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "111,490",
+                "pcode": "18728459",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4304473170&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "111,490",
+            "pcode": "18728459",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4304473170&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 7,
+        "name": "HYTE Revolt 3",
+        "image": "http://img.danawa.com/prod_img/500000/043/384/img/16384043_1.jpg?shrink=330:*&_v=20220422131544",
+        "pop_rank": "N/A",
+        "reg_date": "2022.02.",
+        "manufacturer": "HYTE",
+        "type": "케이스",
+        "options": {
+            "product_type": "미니ITX",
+            "VGA 길이": "335mm",
+            "CPU쿨러 높이": "140mm",
+            "케이스 크기": "미니ITX(리틀밸리)",
+            "파워포함여부": false,
+            "지원파워규격": "M-ATX(SFX)",
+            "8.9cm베이": "1개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 3개",
+            "PCI 슬롯(수평)": "3개",
+            "먼지필터": "부분",
+            "사운드": "HD AUDIO",
+            "너비(W)": "178mm",
+            "높이(H)": "409mm",
+            "깊이(D)": "253mm",
+            "케이스 색상 계열": "블랙 계열"
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "183,000",
+                "pcode": "16384043",
+                "link": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=16384043&marketPlaceSeq=59&memberId=PXC10"
+            },
+            {
+                "option": "화이트",
+                "price": "183,000",
+                "pcode": "16384217",
+                "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=D936650220"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "183,000",
+            "pcode": "16384043",
+            "link": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=16384043&marketPlaceSeq=59&memberId=PXC10"
+        }
+    },
+    {
+        "page": 8,
+        "name": "SilverStone SST-RM600 마이크로닉스",
+        "image": "http://img.danawa.com/prod_img/500000/309/035/img/63035309_1.jpg?shrink=330:*&_v=20250617090520",
+        "pop_rank": "N/A",
+        "reg_date": "2024.08.",
+        "manufacturer": "SilverStone",
+        "type": "케이스",
+        "options": {
+            "product_type": "랙마운트",
+            "CPU쿨러 높이": "150mm",
+            "케이스 크기": "랙마운트(6U)",
+            "파워포함여부": false,
+            "8.9cm베이": "6개",
+            "6.4cm베이": "4개",
+            "저장장치 장착": "최대 10개",
+            "PCI 슬롯(수직)": "8개",
+            "USB3.x 5Gbps": true,
+            "USB C타입 5Gbps": true,
+            "너비(W)": "438mm",
+            "높이(H)": "265mm",
+            "깊이(D)": "522mm"
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "844,600",
+                "pcode": "63035309",
+                "link": "https://www.coupang.com/vp/products/8322523591?itemId=24022968219&vendorItemId=91043482316&src=1032034&spec=10305199&addtag=400&ctag=8322523591&lptag=I24022968219&itime=20250912184001&pageType=PRODUCT&pageValue=8322523591&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184001&redirect=landing&mcid=35eeadf9fd534a8b8651d3e6d248e581"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "844,600",
+            "pcode": "63035309",
+            "link": "https://www.coupang.com/vp/products/8322523591?itemId=24022968219&vendorItemId=91043482316&src=1032034&spec=10305199&addtag=400&ctag=8322523591&lptag=I24022968219&itime=20250912184001&pageType=PRODUCT&pageValue=8322523591&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184001&redirect=landing&mcid=35eeadf9fd534a8b8651d3e6d248e581"
+        }
+    },
+    {
+        "page": 9,
+        "name": "darkFlash DLM22 RGB 강화유리",
+        "image": "http://img.danawa.com/prod_img/500000/879/457/img/8457879_1.jpg?shrink=330:*&_v=20231227152139",
+        "pop_rank": "N/A",
+        "reg_date": "2019.07.",
+        "manufacturer": "darkFlash",
+        "type": "케이스",
+        "options": {
+            "product_type": "M-ATX 케이스",
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "350mm",
+            "CPU쿨러 높이": "160mm",
+            "케이스 크기": "미니타워",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "2개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 4개",
+            "PCI 슬롯(수평)": "4개",
+            "전면 패널 타입": "일반(솔리드)",
+            "측면 패널 타입": "강화유리",
+            "측면 개폐 방식": "스윙도어",
+            "먼지필터": "부분",
+            "쿨링팬": "총1개",
+            "LED팬": "1개",
+            "후면": "120mm LED x1",
+            "USB2.0": true,
+            "USB3.x 5Gbps": true,
+            "너비(W)": "208mm",
+            "깊이(D)": "362mm",
+            "높이(H)": "425mm",
+            "파워 장착 길이": "210mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대2열 지원",
+            "라디에이터(상단)": "최대240mm",
+            "라디에이터(후면)": "최대120mm",
+            "[부가기능]": "[부가기능]",
+            "RGB 컨트롤": true
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "78,160",
+                "pcode": "8457783",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E845858246&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "화이트",
+                "price": "49,000",
+                "pcode": "8457879",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10856459661&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "화이트",
+            "price": "49,000",
+            "pcode": "8457879",
+            "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10856459661&service_id=pcdn"
+        }
+    },
+    {
+        "page": 10,
+        "name": "Phanteks VERTICAL GPU RISER EXTENDER PCIe 4.0 WT",
+        "image": "http://img.danawa.com/prod_img/500000/475/218/img/20218475_1.jpg?shrink=330:*&_v=20230518082940",
+        "pop_rank": "N/A",
+        "reg_date": "2023.05.",
+        "manufacturer": "Phanteks",
+        "type": "케이스",
+        "options": {
+            "product_type": "액세서리",
+            "제품 상세 분류": "라이저 케이블"
+        },
+        "price_info": [
+            {
+                "option": "Flatline 220mm/90",
+                "price": "89,990",
+                "pcode": "20218475",
+                "link": "https://www.coupang.com/vp/products/7354971448?itemId=18935775078&vendorItemId=86074254391&src=1032034&spec=10305199&addtag=400&ctag=7354971448&lptag=I18935775078&itime=20250912184048&pageType=PRODUCT&pageValue=7354971448&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184048&redirect=landing&mcid=908cb3e6d8084fecadd4209176a5b1ec"
+            }
+        ],
+        "lowest_price": {
+            "option": "Flatline 220mm/90",
+            "price": "89,990",
+            "pcode": "20218475",
+            "link": "https://www.coupang.com/vp/products/7354971448?itemId=18935775078&vendorItemId=86074254391&src=1032034&spec=10305199&addtag=400&ctag=7354971448&lptag=I18935775078&itime=20250912184048&pageType=PRODUCT&pageValue=7354971448&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184048&redirect=landing&mcid=908cb3e6d8084fecadd4209176a5b1ec"
+        }
+    },
+    {
+        "page": 11,
+        "name": "아이구주 HATCH 1 야인",
+        "image": "http://img.danawa.com/prod_img/500000/192/407/img/15407192_1.jpg?shrink=330:*&_v=20241015111226",
+        "pop_rank": "N/A",
+        "reg_date": "2021.10.",
+        "manufacturer": "아이구주",
+        "type": "케이스",
+        "options": {
+            "product_type": "M-ATX 케이스",
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "255mm",
+            "CPU쿨러 높이": "160mm",
+            "케이스 크기": "미니타워",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "2개",
+            "6.4cm베이": "4개",
+            "저장장치 장착": "최대 6개",
+            "PCI 슬롯(수평)": "4개",
+            "전면 패널 타입": "일반(솔리드)",
+            "측면 패널 타입": "통풍구",
+            "쿨링팬": "총1개",
+            "후면": "120mm x1",
+            "USB2.0": true,
+            "USB3.x 5Gbps": true,
+            "너비(W)": "190mm",
+            "깊이(D)": "300mm",
+            "높이(H)": "353mm",
+            "파워 장착 길이": "160mm",
+            "파워 위치": "상단"
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "24,800",
+                "pcode": "15407192",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F5928721375&service_id=pcdn"
+            },
+            {
+                "option": "화이트",
+                "price": "25,800",
+                "pcode": "15407204",
+                "link": "https://www.coupang.com/vp/products/7727887084?itemId=19167109394&vendorItemId=86285428934&src=1032034&spec=10305199&addtag=400&ctag=7727887084&lptag=I19167109394&itime=20250912184113&pageType=PRODUCT&pageValue=7727887084&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184113&redirect=landing&mcid=428edaccbbb645b1b5a7877bd64e171b"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "24,800",
+            "pcode": "15407192",
+            "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F5928721375&service_id=pcdn"
+        }
+    },
+    {
+        "page": 12,
+        "name": "Fractal Design Define R6 강화유리",
+        "image": "http://img.danawa.com/prod_img/500000/138/840/img/14840138_1.jpg?shrink=330:*&_v=20210818233745",
+        "pop_rank": "N/A",
+        "reg_date": "2021.07.",
+        "manufacturer": "Fractal Design",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "E-ATX": true,
+            "ATX": true,
+            "M-ATX": true,
+            "ITX": true,
+            "VGA 길이": "440mm",
+            "CPU쿨러 높이": "185mm",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "13.3cm베이": "1개",
+            "8.9cm베이": "6개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 8개",
+            "PCI 슬롯(수평)": "7+2개",
+            "수직 PCI형태": "기본형",
+            "측면 패널 타입": "강화유리",
+            "먼지필터": "전체",
+            "쿨링팬": "총3개",
+            "후면": "140mm x1",
+            "전면": "140mm x2",
+            "USB2.0": true,
+            "USB3.x 5Gbps": true,
+            "너비(W)": "233mm",
+            "깊이(D)": "543mm",
+            "높이(H)": "465mm",
+            "파워 장착 길이": "300mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대420mm, 360mm",
+            "라디에이터(전면)": "최대360mm, 280mm",
+            "라디에이터(후면)": "최대120mm",
+            "[부가기능]": "[부가기능]",
+            "팬 컨트롤": true
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "226,000",
+                "pcode": "14840138",
+                "link": "https://shop.danawa.com/virtualestimate/?controller=estimate&methods=miniShop&sellerSeq=253&serviceId=blog&marketPlaceSeq=33&productSeqList=14840138&productCountList=1"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "226,000",
+            "pcode": "14840138",
+            "link": "https://shop.danawa.com/virtualestimate/?controller=estimate&methods=miniShop&sellerSeq=253&serviceId=blog&marketPlaceSeq=33&productSeqList=14840138&productCountList=1"
+        }
+    },
+    {
+        "page": 13,
+        "name": "몬스타 가츠 Y544 메쉬",
+        "image": "http://img.danawa.com/prod_img/500000/462/789/img/68789462_1.jpg?shrink=330:*&_v=20241101123840",
+        "pop_rank": "N/A",
+        "reg_date": "2024.10.",
+        "manufacturer": "몬스타",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "ATX": true,
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "410mm",
+            "CPU쿨러 높이": "160mm",
+            "케이스 크기": "미들타워",
+            "파워포함여부": false,
+            "8.9cm베이": "1개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 3개",
+            "PCI 슬롯(수평)": "7개",
+            "전면 패널 타입": "메쉬",
+            "측면 패널 타입": "강화유리",
+            "먼지필터": "부분",
+            "쿨링팬": "총4개",
+            "LED팬": "4개",
+            "후면": "120mm LED x1",
+            "전면": "140mm LED x3",
+            "USB2.0": true,
+            "USB3.x 5Gbps": true,
+            "USB C타입 5Gbps": true,
+            "너비(W)": "213mm",
+            "깊이(D)": "453mm",
+            "높이(H)": "485mm",
+            "파워 장착 길이": "240mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm",
+            "[부가기능]": "[부가기능]"
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "56,500",
+                "pcode": "68789462",
+                "link": "https://www.coupang.com/vp/products/8416880119?itemId=24341006318&vendorItemId=91380455546&src=1032034&spec=10305199&addtag=400&ctag=8416880119&lptag=I24341006318&itime=20250912184151&pageType=PRODUCT&pageValue=8416880119&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184151&redirect=landing&mcid=bf9ccce76712484a936b455041c64f49"
+            },
+            {
+                "option": "화이트",
+                "price": "61,500",
+                "pcode": "68789492",
+                "link": "https://www.coupang.com/vp/products/8416880289?itemId=24365165914&vendorItemId=91380455283&src=1032034&spec=10305199&addtag=400&ctag=8416880289&lptag=I24365165914&itime=20250912184159&pageType=PRODUCT&pageValue=8416880289&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184159&redirect=landing&mcid=a7679e514f4045c184f27751c2e128ef"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "56,500",
+            "pcode": "68789462",
+            "link": "https://www.coupang.com/vp/products/8416880119?itemId=24341006318&vendorItemId=91380455546&src=1032034&spec=10305199&addtag=400&ctag=8416880119&lptag=I24341006318&itime=20250912184151&pageType=PRODUCT&pageValue=8416880119&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184151&redirect=landing&mcid=bf9ccce76712484a936b455041c64f49"
+        }
+    },
+    {
+        "page": 14,
+        "name": "AMAQUEST K300 WC",
+        "image": "http://img.danawa.com/prod_img/500000/395/809/img/94809395_1.jpg?shrink=330:*&_v=20250728084106",
+        "pop_rank": "N/A",
+        "reg_date": "2025.07.",
+        "manufacturer": "AMAQUEST",
+        "type": "케이스",
+        "options": {
+            "product_type": "랙마운트",
+            "VGA 길이": "350mm",
+            "CPU쿨러 높이": "110mm",
+            "케이스 크기": "랙마운트(3U)",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "3개",
+            "6.4cm베이": "1개",
+            "저장장치 장착": "최대 4개",
+            "PCI 슬롯(수직)": "5개",
+            "쿨링팬": "총3개",
+            "전면": "120mm x2, 80mm x1",
+            "USB3.x 5Gbps": true,
+            "너비(W)": "428mm",
+            "높이(H)": "132mm",
+            "깊이(D)": "450mm",
+            "파워 위치": "하단후면",
+            "라디에이터(전면)": "최대240mm"
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "114,500",
+                "pcode": "94809395",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4489117612&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "114,500",
+            "pcode": "94809395",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4489117612&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 15,
+        "name": "써멀테이크 DIVIDER 370 ARGB TG",
+        "image": "http://img.danawa.com/prod_img/500000/425/334/img/17334425_1.jpg?shrink=330:*&_v=20241015153819",
+        "pop_rank": "N/A",
+        "reg_date": "2022.06.",
+        "manufacturer": "써멀테이크",
+        "type": "케이스",
+        "options": {
+            "product_type": "ATX 케이스",
+            "E-ATX": true,
+            "ATX": true,
+            "M-ATX": true,
+            "M-ITX": true,
+            "VGA 길이": "340~400mm",
+            "CPU쿨러 높이": "170mm",
+            "케이스 크기": "미들타워",
+            "파워포함여부": false,
+            "지원파워규격": "표준-ATX",
+            "8.9cm베이": "2개",
+            "6.4cm베이": "2개",
+            "저장장치 장착": "최대 4개",
+            "PCI 슬롯(수평)": "7개",
+            "수직 PCI형태": "슬롯변경형",
+            "전면 패널 타입": "메쉬",
+            "측면 패널 타입": "강화유리",
+            "먼지필터": "부분",
+            "쿨링팬": "총3개",
+            "LED팬": "3개",
+            "후면": "120mm LED x1",
+            "전면": "120mm LED x2",
+            "USB3.x 5Gbps": true,
+            "너비(W)": "220.3mm",
+            "깊이(D)": "469.1mm",
+            "높이(H)": "491mm",
+            "파워 장착 길이": "230mm",
+            "파워 위치": "하단후면",
+            "수랭쿨러 규격": "최대3열 지원",
+            "라디에이터(상단)": "최대360mm, 280mm",
+            "라디에이터(전면)": "최대360mm, 280mm",
+            "라디에이터(후면)": "최대120mm",
+            "[부가기능]": "[부가기능]",
+            "외부LED 컨트롤": true
+        },
+        "price_info": [
+            {
+                "option": "블랙",
+                "price": "153,990",
+                "pcode": "17334425",
+                "link": "https://www.coupang.com/vp/products/6773429430?itemId=15041395930&vendorItemId=87464606769&src=1032034&spec=10305199&addtag=400&ctag=6773429430&lptag=I15041395930&itime=20250912184234&pageType=PRODUCT&pageValue=6773429430&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184234&redirect=landing&mcid=ecef32cde8d847eabf2a5edff10e96e1"
+            },
+            {
+                "option": "스노우",
+                "price": "154,000",
+                "pcode": "17334437",
+                "link": "https://www.coupang.com/vp/products/6773429439?itemId=15909967868&vendorItemId=86044221361&src=1032034&spec=10305199&addtag=400&ctag=6773429439&lptag=I15909967868&itime=20250912184242&pageType=PRODUCT&pageValue=6773429439&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184242&redirect=landing&mcid=54828c5117fc443d9177920f53650a29"
+            }
+        ],
+        "lowest_price": {
+            "option": "블랙",
+            "price": "153,990",
+            "pcode": "17334425",
+            "link": "https://www.coupang.com/vp/products/6773429430?itemId=15041395930&vendorItemId=87464606769&src=1032034&spec=10305199&addtag=400&ctag=6773429430&lptag=I15041395930&itime=20250912184234&pageType=PRODUCT&pageValue=6773429430&wPcid=17576698936264368776119&wRef=prod.danawa.com&wTime=20250912184234&redirect=landing&mcid=ecef32cde8d847eabf2a5edff10e96e1"
+        }
+    }
+]

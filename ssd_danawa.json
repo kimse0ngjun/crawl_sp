@@ -1,0 +1,563 @@
+[
+    {
+        "name": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스",
+        "image": "http://img.danawa.com/prod_img/500000/111/666/img/29666111_1.jpg?shrink=330:*&_v=20250620154912",
+        "pop_rank": 1,
+        "reg_date": "2023.11.",
+        "options": {
+            "manufacturer": "마이크론",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "1TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "파이슨",
+            "seq_read": "7,300MB/s",
+            "seq_write": "6,800MB/s",
+            "read_iops": "1,150K",
+            "write_iops": "1,440K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "ecc": true,
+            "software_tool": true,
+            "migration": true,
+            "management_tool": true,
+            "mtbf": "150만시간",
+            "tbw": "600TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.3mm",
+            "weight": "10g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "460000",
+                "pcode": "67373033",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4232061314&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "206500",
+                "pcode": "29666195",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10062756186&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "127440",
+                "pcode": "29666111",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10833281844&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "90220",
+                "pcode": "29666252",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7419164547&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7419164547&XSITE=1000000081&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "ESSENCORE KLEVV CRAS C910 M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/154/849/img/58849154_1.jpg?shrink=330:*&_v=20250106082403",
+        "pop_rank": 2,
+        "reg_date": "2024.07.",
+        "options": {
+            "manufacturer": "ESSENCORE",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "1TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "controller": "InnoGrit IG5220",
+            "seq_read": "5,000MB/s",
+            "seq_write": "4,800MB/s",
+            "read_iops": "620K",
+            "write_iops": "615K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "ecc": true,
+            "HMB": true,
+            "aes_encryption": true,
+            "software_tool": true,
+            "tbw": "700TB",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": true,
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "3.4mm",
+            "weight": "10g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "310810",
+                "pcode": "70250720",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7776580848&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7776580848&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "156450",
+                "pcode": "58849022",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E740464248&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "84030",
+                "pcode": "58849154",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E740464369&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "51780",
+                "pcode": "58849172",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E740464147&sub-id=2&service-code=10000000&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "SK하이닉스 Platinum P41 M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/050/001/img/17001050_1.jpg?shrink=330:*&_v=20250522113047",
+        "pop_rank": 3,
+        "reg_date": "2022.05.",
+        "options": {
+            "manufacturer": "SK하이닉스",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "1TB",
+            "memory_type": "TLC(토글)",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "SK하이닉스 Aries",
+            "seq_read": "7,000MB/s",
+            "seq_write": "6,500MB/s",
+            "read_iops": "1,400K",
+            "write_iops": "1,300K",
+            "trim": true,
+            "GC": true,
+            "slc_caching": true,
+            "smart": true,
+            "DEVSLP": true,
+            "aes_encryption": true,
+            "software_tool": true,
+            "mtbf": "150만시간",
+            "tbw": "750TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.38mm",
+            "weight": "7g"
+        },
+        "price_info": [
+            {
+                "option": "2TB",
+                "price": "263000",
+                "pcode": "17000984",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6691934720&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "161000",
+                "pcode": "17001050",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6691929825&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "112000",
+                "pcode": "17001083",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6691904899&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "솔리다임 P44 Pro M.2 NVMe 벌크",
+        "image": "http://img.danawa.com/prod_img/500000/300/656/img/69656300_1.jpg?shrink=330:*&_v=20241023093417",
+        "pop_rank": 4,
+        "reg_date": "2024.10.",
+        "options": {
+            "manufacturer": "솔리다임",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "2TB",
+            "memory_type": "TLC(토글)",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 2GB",
+            "controller": "SK하이닉스 Aries",
+            "seq_read": "7,000MB/s",
+            "seq_write": "6,500MB/s",
+            "read_iops": "1,400K",
+            "write_iops": "1,300K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "aes_encryption": true,
+            "mtbf": "160만시간",
+            "tbw": "1,200TB",
+            "console_compatibility": "PS5 호환",
+            "as_3": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.38mm",
+            "weight": "7g"
+        },
+        "price_info": [
+            {
+                "option": "2TB",
+                "price": "207000",
+                "pcode": "69656300",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11091209439&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "149000",
+                "pcode": "69656321",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11091457951&service_id=pcdn"
+            },
+            {
+                "option": "512GB",
+                "price": "76000",
+                "pcode": "69656366",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=E794860662&sub-id=2&service-code=10000000&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "Western Digital WD BLACK SN850X M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/451/788/img/17788451_1.jpg?shrink=330:*&_v=20240403154623",
+        "pop_rank": 5,
+        "reg_date": "2022.09.",
+        "options": {
+            "manufacturer": "Western Digital",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "2TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 2GB",
+            "controller": "WD",
+            "seq_read": "7,300MB/s",
+            "seq_write": "6,600MB/s",
+            "read_iops": "1,200K",
+            "write_iops": "1,100K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "software_tool": true,
+            "management_tool": true,
+            "mtbf": "180만시간",
+            "tbw": "1,200TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.38mm",
+            "weight": "7.5g"
+        },
+        "price_info": [
+            {
+                "option": "8TB",
+                "price": "930269",
+                "pcode": "71906102",
+                "link": "https://www.coupang.com/vp/products/6994740179?itemId=24515000228&vendorItemId=91778828451&src=1032034&spec=10305197&addtag=400&ctag=6994740179&lptag=I24515000228&itime=20250912124721&pageType=PRODUCT&pageValue=6994740179&wPcid=17576488412193537078618&wRef=prod.danawa.com&wTime=20250912124721&redirect=landing&mcid=6930024f4cc94af6a31ec1bb92281cbb"
+            },
+            {
+                "option": "4TB",
+                "price": "430560",
+                "pcode": "17788379",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=6748835157&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F6748835157&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "222490",
+                "pcode": "17788451",
+                "link": "https://www.gmarket.co.kr/n/search?keyword=2640159880&redirection=srp&type=item&lcd=100000075&service_id=pcdn&jaehuid=200002657"
+            },
+            {
+                "option": "1TB",
+                "price": "129580",
+                "pcode": "17788487",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7156927425&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7156927425&XSITE=1000000081&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "N/A",
+        "image": "N/A",
+        "pop_rank": 6,
+        "reg_date": "N/A",
+        "options": {},
+        "price_info": []
+    },
+    {
+        "name": "삼성전자 990 PRO M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/002/297/img/18297002_1.jpg?shrink=330:*&_v=20240104172854",
+        "pop_rank": 7,
+        "reg_date": "2022.11.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 2.0",
+            "capacity": "1TB",
+            "memory_type": "TLC(토글)",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "삼성 Pascal",
+            "seq_read": "7,450MB/s",
+            "seq_write": "6,900MB/s",
+            "read_iops": "1,200K",
+            "write_iops": "1,550K",
+            "trim": true,
+            "GC": true,
+            "slc_caching": true,
+            "smart": true,
+            "DEVSLP": true,
+            "aes_encryption": true,
+            "software_tool": true,
+            "migration": true,
+            "management_tool": true,
+            "mtbf": "150만시간",
+            "tbw": "600TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.3mm",
+            "weight": "9g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "481620",
+                "pcode": "28131875",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F9623075827&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "238260",
+                "pcode": "18297722",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=2662367459&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "155440",
+                "pcode": "18297002",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=2662364219&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "삼성전자 포터블 SSD T7",
+        "image": "http://img.danawa.com/prod_img/500000/381/367/img/11367381_1.jpg?shrink=330:*&_v=20250620152709",
+        "pop_rank": 8,
+        "reg_date": "2020.05.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "제품 분류": "외장 SSD",
+            "디스크 용량": "1TB",
+            "memory_type": "TLC",
+            "USB3.x 10Gbps": true,
+            "USB A타입": true,
+            "USB C타입": true,
+            "읽기": "1,050MB/s",
+            "쓰기": "1,000MB/s",
+            "디스크 인터페이스": "NVMe",
+            "UASP 지원": true,
+            "보안기능": true,
+            "AES": true,
+            "전용 소프트웨어": true,
+            "충격보호": true,
+            "전원": "USB전원",
+            "width": "85mm",
+            "height": "57mm",
+            "thickness": "8mm",
+            "weight": "58g",
+            "A/S 정보": "3년"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "472980",
+                "pcode": "53522171",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F10284864192&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "242730",
+                "pcode": "11367399",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6120013550&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "136980",
+                "pcode": "11367381",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6120010364&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "164990",
+                "pcode": "11367324",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=5744435332&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F5744435332&XSITE=1000000081&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "삼성전자 990 EVO Plus M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/543/869/img/69869543_1.jpg?shrink=330:*&_v=20241025142458",
+        "pop_rank": 9,
+        "reg_date": "2024.10.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4(64GT/s), PCIe5.0x2",
+            "protocol": "NVMe 2.0",
+            "capacity": "1TB",
+            "memory_type": "TLC(토글)",
+            "nand_structure": "3D낸드",
+            "controller": "삼성 Piccolo",
+            "seq_read": "7,150MB/s",
+            "seq_write": "6,300MB/s",
+            "read_iops": "850K",
+            "write_iops": "1,350K",
+            "trim": true,
+            "GC": true,
+            "slc_caching": true,
+            "smart": true,
+            "DEVSLP": true,
+            "HMB": true,
+            "aes_encryption": true,
+            "mtbf": "150만시간",
+            "tbw": "600TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80.15mm",
+            "height": "22.15mm",
+            "thickness": "2.38mm",
+            "weight": "9g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "422750",
+                "pcode": "69869606",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11046462799&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "213280",
+                "pcode": "69869573",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11046848340&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "113750",
+                "pcode": "69869543",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11046455245&service_id=pcdn"
+            }
+        ]
+    },
+    {
+        "name": "삼성전자 870 EVO",
+        "image": "http://img.danawa.com/prod_img/500000/519/190/img/13190519_1.jpg?shrink=330:*&_v=20250828141039",
+        "pop_rank": 10,
+        "reg_date": "2021.01.",
+        "options": {
+            "manufacturer": "삼성전자",
+            "product_type": "내장형SSD",
+            "form_factor": "6.4cm(2.5형)",
+            "interface": "SATA3 (6Gb/s)",
+            "capacity": "500GB",
+            "memory_type": "TLC(토글)",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 512MB",
+            "controller": "삼성 MKX",
+            "seq_read": "560MB/s",
+            "seq_write": "530MB/s",
+            "read_iops": "98K",
+            "write_iops": "88K",
+            "trim": true,
+            "GC": true,
+            "slc_caching": true,
+            "smart": true,
+            "aes_encryption": true,
+            "software_tool": true,
+            "management_tool": true,
+            "mtbf": "150만시간",
+            "tbw": "300TB",
+            "as_5": true,
+            "limited_warranty": true,
+            "width": "100mm",
+            "height": "69.85mm",
+            "thickness": "6.8mm",
+            "weight": "45g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "474240",
+                "pcode": "13190711",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6117622842&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "250390",
+                "pcode": "13190630",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=C492464763&sub-id=2&service-code=10000000&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "132510",
+                "pcode": "13190573",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F6117575040&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "80190",
+                "pcode": "13190519",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F5333569470&service_id=pcdn"
+            },
+            {
+                "option": "250GB",
+                "price": "71040",
+                "pcode": "13190384",
+                "link": "https://link.auction.co.kr/gate/pcs?item-no=C492455364&sub-id=2&service-code=10000000&service_id=pcdn"
+            }
+        ]
+    }
+]
