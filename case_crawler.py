@@ -3,11 +3,26 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoAlertPresentException
 from bs4 import BeautifulSoup
 import json
 import time
 import re
 
+
+def handle_alert(driver, timeout=2):
+    """떠 있는 alert이 있으면 닫고 메시지 반환"""
+    try:
+        WebDriverWait(driver, timeout).until(EC.alert_is_present())
+        alert = driver.switch_to.alert
+        msg = alert.text
+        print("[ALERT]", msg)
+        alert.accept()  # 확인 버튼 누르기
+        return msg
+    except NoAlertPresentException:
+        return None
+    except Exception:
+        return None
 
 def extract_pcode(url: str) -> str:
     """URL에서 pcode 추출"""
@@ -19,17 +34,16 @@ def extract_pcode(url: str) -> str:
 
 def get_driver():
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # 브라우저 창 안 띄우고 실행
+    # chrome_options.add_argument("--headless")  # 브라우저 창 안 띄우고 실행
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     return webdriver.Chrome(options=chrome_options)
-
 
 def get_detail_image(driver, url):
     """상품 상세 페이지 대표 이미지"""
     try:
         driver.get(url)
-        WebDriverWait(driver, 10).until(
+        WebDriverWait(driver, 5).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "img#baseImage"))
         )
         soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -265,7 +279,6 @@ def preprocess_product(product: dict) -> dict:
 
     return product
 
-
 def crawl_danawa_case():
     driver = get_driver()
     url = "https://prod.danawa.com/list/?cate=112775"
@@ -273,7 +286,7 @@ def crawl_danawa_case():
 
     wait = WebDriverWait(driver, 10)
 
-    # ✅ 목록 개수를 90으로 변경
+    # 목록 개수를 90으로 변경
     try:
         select_element = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR,
@@ -288,7 +301,7 @@ def crawl_danawa_case():
     page = 1
 
     while True:
-        # ✅ 상품 로딩 대기
+        # 상품 로딩 대기
         try:
             wait.until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item"))
@@ -304,7 +317,7 @@ def crawl_danawa_case():
             print(f"[END] {page}페이지에 상품 없음 → 종료")
             break
 
-        # ✅ 페이지 내 모든 상품 순회
+        # 페이지 내 모든 상품 순회
         for prod in products:
             name_tag = prod.select_one(".prod_info .prod_name a")
             date_tag = prod.select_one("dl.meta_item.mt_date dd")
@@ -322,6 +335,7 @@ def crawl_danawa_case():
             main_window = driver.current_window_handle
             driver.execute_script("window.open(arguments[0]);", link)
             driver.switch_to.window(driver.window_handles[-1])
+            handle_alert(driver)  # 새 창 들어가자마자 alert 처리
 
             try:
                 WebDriverWait(driver, 10).until(
@@ -334,7 +348,6 @@ def crawl_danawa_case():
                 price_info_list = get_price_info(prod)
 
                 product = {
-                    "page": page,
                     "name": name,
                     "image": img,
                     "pop_rank": pop_rank,
@@ -359,8 +372,10 @@ def crawl_danawa_case():
                             final_link = resolve_final_url_with_selenium(driver, option_bridge_url)
                         except:
                             final_link = "N/A"
-                        driver.close()
-                        driver.switch_to.window(driver.window_handles[-1])
+                        finally:
+                            handle_alert(driver)  # 닫기 전에 alert 처리
+                            driver.close()
+                            driver.switch_to.window(driver.window_handles[-1])
 
                     product["price_info"].append({
                         "option": opt.get("capacity", "N/A"),
@@ -387,10 +402,14 @@ def crawl_danawa_case():
                 print(f"[INFO] {page}페이지 상품 → {name}")
 
             finally:
-                driver.close()
+                handle_alert(driver)  # 닫기 전에 alert 처리
+                try:
+                    driver.close()
+                except:
+                    pass
                 driver.switch_to.window(main_window)
 
-        # ✅ 다음 페이지 이동
+        # 다음 페이지 이동
         try:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(1)
@@ -415,11 +434,18 @@ def crawl_danawa_case():
             print("[END] 더 이상 페이지 없음:", e)
             break
 
-    driver.quit()
     save_to_json(results, "case_danawa.json")
+    driver.quit()
     return results
 
 def save_to_json(results, filename="case_danawa.json"):
+    cleaned = []
+    for item in results:
+        save_item = dict(item) 
+        save_item.pop("page", None) 
+        cleaned.append(save_item)
+    print(json.dumps(cleaned, ensure_ascii=False, indent=4))
+    
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 

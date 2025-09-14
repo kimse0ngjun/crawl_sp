@@ -19,7 +19,7 @@ def extract_pcode(url: str) -> str:
 
 def get_driver():
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # 브라우저 창 안 띄우고 실행
+    # chrome_options.add_argument("--headless")  # 브라우저 창 안 띄우고 실행
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     return webdriver.Chrome(options=chrome_options)
@@ -29,7 +29,7 @@ def get_detail_image(driver, url):
     """상품 상세 페이지 대표 이미지"""
     try:
         driver.get(url)
-        WebDriverWait(driver, 10).until(
+        WebDriverWait(driver, 5).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "img#baseImage"))
         )
         soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -321,7 +321,6 @@ def crawl_danana_hdd():
                 price_info_list = get_price_info(prod)
 
                 product = {
-                    "page": page,
                     "name": name,
                     "image": img,
                     "pop_rank": pop_rank,

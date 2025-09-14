@@ -19,7 +19,7 @@ def extract_pcode(url: str) -> str:
 
 def get_driver():
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # 브라우저 창 안 띄우고 실행
+    # chrome_options.add_argument("--headless")  # 브라우저 창 안 띄우고 실행
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     return webdriver.Chrome(options=chrome_options)
@@ -314,7 +314,6 @@ def crawl_danana_ssd():
                 price_info_list = get_price_info(prod)
 
                 product = {
-                    "page": page,
                     "name": name,
                     "image": img,
                     "pop_rank": pop_rank,
@@ -352,7 +351,7 @@ def crawl_danana_ssd():
                 # 최저가 계산
                 valid_prices = []
                 for p in product["price_info"]:
-                    digits = re.sub(r"[\d]", "", p["price"])
+                    digits = re.sub(r"[^\d]", "", p["price"])
                     if digits:
                         valid_prices.append((int(digits), p))
                 if valid_prices:
