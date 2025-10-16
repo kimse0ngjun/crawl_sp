@@ -1,0 +1,917 @@
+[
+    {
+        "page": 1,
+        "name": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스",
+        "image": "http://img.danawa.com/prod_img/500000/111/666/img/29666111_1.jpg?shrink=330:*&_v=20250929092802",
+        "pop_rank": 1,
+        "reg_date": "2023.11.",
+        "manufacturer": "마이크론",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "1TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "파이슨",
+            "seq_read": "7,300MB/s",
+            "seq_write": "6,800MB/s",
+            "read_iops": "1,150K",
+            "write_iops": "1,440K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "ecc": true,
+            "software_tool": true,
+            "migration": true,
+            "management_tool": true,
+            "mtbf": "150만시간",
+            "tbw": "600TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.3mm",
+            "weight": "10g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "460,000",
+                "pcode": "67373033",
+                "link": "https://www.coupang.com/vp/products/8565518377?itemId=24809806372&vendorItemId=92724483066&src=1032034&spec=10305199&addtag=400&ctag=8565518377&lptag=V92724483066&itime=20251016191558&pageType=PRODUCT&pageValue=8565518377&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016191558&redirect=landing&mcid=db007b98e85a45229ea60987d826b1ee"
+            },
+            {
+                "option": "2TB",
+                "price": "210,280",
+                "pcode": "29666195",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3308265241&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "127,180",
+                "pcode": "29666111",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4244063954&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "90,670",
+                "pcode": "29666252",
+                "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=D950260900"
+            }
+        ],
+        "lowest_price": {
+            "option": "500GB",
+            "price": "90,670",
+            "pcode": "29666252",
+            "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=D950260900"
+        }
+    },
+    {
+        "page": 2,
+        "name": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스",
+        "image": "http://img.danawa.com/prod_img/500000/111/666/img/29666111_1.jpg?shrink=330:*&_v=20250929092802",
+        "pop_rank": 1,
+        "reg_date": "2023.11.",
+        "manufacturer": "마이크론",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "1TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "파이슨",
+            "seq_read": "7,300MB/s",
+            "seq_write": "6,800MB/s",
+            "read_iops": "1,150K",
+            "write_iops": "1,440K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "ecc": true,
+            "software_tool": true,
+            "migration": true,
+            "management_tool": true,
+            "mtbf": "150만시간",
+            "tbw": "600TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.3mm",
+            "weight": "10g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "460,000",
+                "pcode": "67373033",
+                "link": "https://www.coupang.com/vp/products/8565518377?itemId=24809806372&vendorItemId=92724483066&src=1032034&spec=10305199&addtag=400&ctag=8565518377&lptag=V92724483066&itime=20251016191704&pageType=PRODUCT&pageValue=8565518377&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016191704&redirect=landing&mcid=5776b34028ce46dc9def408cd52921dd"
+            },
+            {
+                "option": "2TB",
+                "price": "210,280",
+                "pcode": "29666195",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3308265241&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            },
+            {
+                "option": "1TB",
+                "price": "127,180",
+                "pcode": "29666111",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4244063954&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            },
+            {
+                "option": "500GB",
+                "price": "90,670",
+                "pcode": "29666252",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3559593031&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "500GB",
+            "price": "90,670",
+            "pcode": "29666252",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3559593031&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+        }
+    },
+    {
+        "page": 3,
+        "name": "CORSAIR MP600 PRO LPX M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/841/321/img/16321841_1.jpg?shrink=330:*&_v=20220204153851",
+        "pop_rank": "N/A",
+        "reg_date": "2022.02.",
+        "manufacturer": "CORSAIR",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "4TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "controller": "파이슨 PS5018-E18",
+            "seq_read": "7,100MB/s",
+            "seq_write": "6,800MB/s",
+            "read_iops": "1,000K",
+            "write_iops": "1,200K",
+            "trim": true,
+            "GC": true,
+            "smart": true,
+            "DEVSLP": true,
+            "aes_encryption": true,
+            "mtbf": "160만시간",
+            "tbw": "3,000TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 포함",
+            "width": "80mm",
+            "height": "23mm",
+            "thickness": "11mm",
+            "weight": "41g"
+        },
+        "price_info": [
+            {
+                "option": "8TB",
+                "price": "1,379,000",
+                "pcode": "61734980",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7473247681&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7473247681&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "4TB",
+                "price": "530,000",
+                "pcode": "16321841",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=4164305504&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F4164305504&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "273,190",
+                "pcode": "16322021",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3647501460&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "2TB",
+            "price": "273,190",
+            "pcode": "16322021",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3647501460&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+        }
+    },
+    {
+        "page": 4,
+        "name": "CORSAIR MP600 PRO LPX M.2 NVMe",
+        "image": "http://img.danawa.com/prod_img/500000/841/321/img/16321841_1.jpg?shrink=330:*&_v=20220204153851",
+        "pop_rank": "N/A",
+        "reg_date": "2022.02.",
+        "manufacturer": "CORSAIR",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "4TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "controller": "파이슨 PS5018-E18",
+            "seq_read": "7,100MB/s",
+            "seq_write": "6,800MB/s",
+            "read_iops": "1,000K",
+            "write_iops": "1,200K",
+            "trim": true,
+            "GC": true,
+            "smart": true,
+            "DEVSLP": true,
+            "aes_encryption": true,
+            "mtbf": "160만시간",
+            "tbw": "3,000TB",
+            "console_compatibility": "PS5 호환",
+            "as_5": true,
+            "limited_warranty": true,
+            "nvme_heatsink": "방열판 포함",
+            "width": "80mm",
+            "height": "23mm",
+            "thickness": "11mm",
+            "weight": "41g"
+        },
+        "price_info": [
+            {
+                "option": "8TB",
+                "price": "1,379,000",
+                "pcode": "61734980",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=7473247681&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F7473247681&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "4TB",
+                "price": "530,000",
+                "pcode": "16321841",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=4164305504&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F4164305504&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "2TB",
+                "price": "273,190",
+                "pcode": "16322021",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3647501460&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "2TB",
+            "price": "273,190",
+            "pcode": "16322021",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=3647501460&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+        }
+    },
+    {
+        "page": 5,
+        "name": "Western Digital WD SN740 M.2 NVMe 벌크",
+        "image": "http://img.danawa.com/prod_img/500000/969/222/img/20222969_1.jpg?shrink=330:*&_v=20230920124611",
+        "pop_rank": "N/A",
+        "reg_date": "2023.05.",
+        "manufacturer": "Western Digital",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "256GB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "controller": "WD",
+            "seq_read": "4,000MB/s",
+            "seq_write": "2,000MB/s",
+            "read_iops": "270K",
+            "write_iops": "470K",
+            "mtbf": "175만시간",
+            "tbw": "200TB",
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.3mm"
+        },
+        "price_info": [
+            {
+                "option": "512GB",
+                "price": "55,000",
+                "pcode": "28394468",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F12305833823&service_id=pcdn"
+            },
+            {
+                "option": "256GB",
+                "price": "21,900",
+                "pcode": "20222969",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11762989561&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "256GB",
+            "price": "21,900",
+            "pcode": "20222969",
+            "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11762989561&service_id=pcdn"
+        }
+    },
+    {
+        "page": 6,
+        "name": "리버네트워크 NEXI NX-U30SC USB 3.0 to SATA3 컨버터",
+        "image": "http://img.danawa.com/prod_img/500000/560/573/img/12573560_1.jpg?shrink=330:*&_v=20201029183643",
+        "pop_rank": "N/A",
+        "reg_date": "2020.10.",
+        "manufacturer": "리버네트워크",
+        "type": "케이스",
+        "options": {
+            "product_type": "SSD/HDD 주변기기",
+            "상세분류": "변환 컨버터",
+            "크기 변환": "3.5/2.5형→USB A타입",
+            "인터페이스 변환": "SATA3→USB3.x 5Gbps",
+            "2.5형(6.4cm)": true,
+            "3.5형(8.9cm)": true,
+            "용도 구분": "SSD, HDD겸용",
+            "보관(장착) 개수": "최대 1개",
+            "보조전원": true,
+            "width": "50mm",
+            "height": "35.5mm",
+            "thickness": "13.6mm",
+            "블랙": true
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "15,290",
+                "pcode": "12573560",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4483892417&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "15,290",
+            "pcode": "12573560",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4483892417&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 7,
+        "name": "강원전자 I-NC10K 다용도 알루미늄 하드디스크 보관함",
+        "image": "http://img.danawa.com/prod_img/500000/574/546/img/3546574_1.jpg?shrink=330:*&_v=20210222155726",
+        "pop_rank": "N/A",
+        "reg_date": "2015.11.",
+        "manufacturer": "강원전자",
+        "type": "케이스",
+        "options": {
+            "product_type": "SSD/HDD 주변기기",
+            "상세분류": "보관케이스",
+            "3.5형(8.9cm)": true,
+            "용도 구분": "HDD전용",
+            "보관(장착) 개수": "최대 10개",
+            "충격보호": true,
+            "방수": true,
+            "잠금장치": true,
+            "width": "245mm",
+            "height": "245mm",
+            "thickness": "200mm",
+            "weight": "1.6kg",
+            "실버": true,
+            "제품재질": "알루미늄"
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "39,000",
+                "pcode": "3546574",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11673486123&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "39,000",
+            "pcode": "3546574",
+            "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F11673486123&service_id=pcdn"
+        }
+    },
+    {
+        "page": 8,
+        "name": "마이크론 Crucial E100 M.2 NVMe 해외구매",
+        "image": "http://img.danawa.com/prod_img/500000/416/113/img/79113416_1.jpg?shrink=330:*&_v=20250821111519",
+        "pop_rank": "N/A",
+        "reg_date": "2025.02.",
+        "manufacturer": "마이크론",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "1TB",
+            "memory_type": "QLC",
+            "nand_structure": "3D낸드",
+            "controller": "실리콘모션",
+            "seq_read": "5,000MB/s",
+            "seq_write": "4,500MB/s",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "HMB": true,
+            "mtbf": "100만시간",
+            "tbw": "80TB",
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.3mm",
+            "weight": "6g"
+        },
+        "price_info": [
+            {
+                "option": "1TB",
+                "price": "127,900",
+                "pcode": "79113416",
+                "link": "https://11pcs.11st.co.kr/?appLnkWyCd=04&prdNo=8427017419&goUrl=https%3A%2F%2Fm.11st.co.kr%2Fproducts%2Fma%2F8427017419&XSITE=1000000081&service_id=pcdn"
+            },
+            {
+                "option": "480GB",
+                "price": "56,400",
+                "pcode": "76872116",
+                "link": "https://www.coupang.com/vp/products/8743519807?itemId=25411063501&vendorItemId=92409676613&src=1032034&spec=10305199&addtag=400&ctag=8743519807&lptag=I25411063501&itime=20251016192339&pageType=PRODUCT&pageValue=8743519807&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016192339&redirect=landing&mcid=7a7e99a8f8f3431e9091b6ab8799a4bb"
+            }
+        ],
+        "lowest_price": {
+            "option": "480GB",
+            "price": "56,400",
+            "pcode": "76872116",
+            "link": "https://www.coupang.com/vp/products/8743519807?itemId=25411063501&vendorItemId=92409676613&src=1032034&spec=10305199&addtag=400&ctag=8743519807&lptag=I25411063501&itime=20251016192339&pageType=PRODUCT&pageValue=8743519807&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016192339&redirect=landing&mcid=7a7e99a8f8f3431e9091b6ab8799a4bb"
+        }
+    },
+    {
+        "page": 9,
+        "name": "라이트컴 COMS IH081 M.2 to PCIe 컨버터",
+        "image": "http://img.danawa.com/prod_img/500000/567/525/img/95525567_1.jpg?shrink=330:*&_v=20250808170049",
+        "pop_rank": "N/A",
+        "reg_date": "2025.08.",
+        "manufacturer": "라이트컴",
+        "type": "케이스",
+        "options": {
+            "product_type": "SSD/HDD 주변기기",
+            "상세분류": "변환 컨버터",
+            "크기 변환": "M.2→PCIe 카드",
+            "M.2 (2230)": true,
+            "M.2 (2242)": true,
+            "M.2 (2260)": true,
+            "M.2 (2280)": true,
+            "용도 구분": "SSD전용",
+            "보관(장착) 개수": "최대 1개",
+            "width": "100mm",
+            "height": "42mm",
+            "weight": "15g",
+            "블랙": true
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "6,080",
+                "pcode": "95525567",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4378208795&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "6,080",
+            "pcode": "95525567",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4378208795&sub-id=1001&service-code=10000000&lcd=100000075&service_id=pcdn"
+        }
+    },
+    {
+        "page": 10,
+        "name": "라이트컴 COMS mSATA to SATA 컨버터 (KS967)",
+        "image": "http://img.danawa.com/prod_img/500000/219/948/img/3948219_1.jpg?shrink=330:*&_v=20190709115351",
+        "pop_rank": "N/A",
+        "reg_date": "2016.04.",
+        "manufacturer": "라이트컴 COMS",
+        "type": "케이스",
+        "options": {
+            "product_type": "SSD/HDD 주변기기",
+            "상세분류": "변환 컨버터",
+            "크기 변환": "mSATA→PC브라켓",
+            "인터페이스 변환": "SATA→SATA",
+            "width": "120mm",
+            "height": "70mm"
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "6,560",
+                "pcode": "3948219",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4078202794&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "6,560",
+            "pcode": "3948219",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4078202794&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 11,
+        "name": "Western Digital WD BLACK SN770 M.2 NVMe 해외구매",
+        "image": "http://img.danawa.com/prod_img/500000/120/123/img/20123120_1.jpg?shrink=330:*&_v=20230511124503",
+        "pop_rank": "N/A",
+        "reg_date": "2022.03.",
+        "manufacturer": "Western Digital",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe4.0x4 (64GT/s)",
+            "protocol": "NVMe 1.4",
+            "capacity": "2TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "controller": "WD",
+            "seq_read": "5,150MB/s",
+            "seq_write": "4,850MB/s",
+            "read_iops": "740K",
+            "write_iops": "800K",
+            "trim": true,
+            "slc_caching": true,
+            "smart": true,
+            "HMB": true,
+            "software_tool": true,
+            "tbw": "1,200TB",
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80mm",
+            "height": "22mm",
+            "thickness": "2.38mm",
+            "weight": "5.5g"
+        },
+        "price_info": [
+            {
+                "option": "2TB",
+                "price": "194,990",
+                "pcode": "20123120",
+                "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=E596837547"
+            },
+            {
+                "option": "1TB",
+                "price": "110,990",
+                "pcode": "17662646",
+                "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=E596833218"
+            }
+        ],
+        "lowest_price": {
+            "option": "1TB",
+            "price": "110,990",
+            "pcode": "17662646",
+            "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=E596833218"
+        }
+    },
+    {
+        "page": 12,
+        "name": "라이트컴 COMS IF864 M.2 NVMe to PCIe 컨버터",
+        "image": "http://img.danawa.com/prod_img/500000/700/935/img/14935700_1.jpg?shrink=330:*&_v=20230411160548",
+        "pop_rank": "N/A",
+        "reg_date": "2021.08.",
+        "manufacturer": "라이트컴",
+        "type": "케이스",
+        "options": {
+            "product_type": "SSD/HDD 주변기기",
+            "상세분류": "변환 컨버터",
+            "크기 변환": "M.2→PCIe 카드",
+            "M.2 (2230)": true,
+            "M.2 (2242)": true,
+            "M.2 (2260)": true,
+            "M.2 (2280)": true,
+            "용도 구분": "SSD전용",
+            "보관(장착) 개수": "최대 1개",
+            "width": "100mm",
+            "height": "45mm",
+            "thickness": "28mm",
+            "weight": "31g",
+            "블랙": true
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "15,300",
+                "pcode": "14935700",
+                "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=D329613757"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "15,300",
+            "pcode": "14935700",
+            "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=D329613757"
+        }
+    },
+    {
+        "page": 13,
+        "name": "삼성전자 870 QVO 중고",
+        "image": "http://img.danawa.com/prod_img/500000/854/085/img/98085854_1.jpg?shrink=330:*&_v=20250923112639",
+        "pop_rank": "N/A",
+        "reg_date": "2020.12.",
+        "manufacturer": "삼성전자",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "6.4cm(2.5형)",
+            "interface": "SATA3 (6Gb/s)",
+            "capacity": "1TB",
+            "memory_type": "QLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "삼성 MKX",
+            "seq_read": "560MB/s",
+            "seq_write": "530MB/s",
+            "read_iops": "98K",
+            "write_iops": "88K",
+            "trim": true,
+            "GC": true,
+            "slc_caching": true,
+            "smart": true,
+            "DEVSLP": true,
+            "ecc": true,
+            "aes_encryption": true,
+            "mtbf": "150만시간",
+            "tbw": "360TB",
+            "width": "100mm",
+            "height": "69.85mm",
+            "thickness": "6.8mm",
+            "weight": "46g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "424,150",
+                "pcode": "97838735",
+                "link": "https://www.coupang.com/vp/products/7325304028?itemId=18795905984&vendorItemId=93677335367&src=1032034&spec=10305198&addtag=400&ctag=7325304028&lptag=U93677335367&itime=20251016192901&pageType=PRODUCT&pageValue=7325304028&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016192901&redirect=landing&mcid=bb64b5f702da42a187a0c312d0280ea9"
+            },
+            {
+                "option": "2TB",
+                "price": "240,000",
+                "pcode": "98918660",
+                "link": "https://www.coupang.com/vp/products/9081491780?itemId=26679647384&vendorItemId=93651825843&src=1032034&spec=10305198&addtag=400&ctag=9081491780&lptag=U93651825843&itime=20251016192921&pageType=PRODUCT&pageValue=9081491780&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016192921&redirect=landing&mcid=691a34dfd74e48bbae7ba51c3b64092c"
+            },
+            {
+                "option": "1TB",
+                "price": "134,100",
+                "pcode": "98085854",
+                "link": "https://www.coupang.com/vp/products/7325194638?itemId=18795466368&vendorItemId=86837228186&src=1032034&spec=10305198&addtag=400&ctag=7325194638&lptag=U86837228186&itime=20251016192929&pageType=PRODUCT&pageValue=7325194638&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016192929&redirect=landing&mcid=9f516849cb594e13b39977413065c92e"
+            }
+        ],
+        "lowest_price": {
+            "option": "1TB",
+            "price": "134,100",
+            "pcode": "98085854",
+            "link": "https://www.coupang.com/vp/products/7325194638?itemId=18795466368&vendorItemId=86837228186&src=1032034&spec=10305198&addtag=400&ctag=7325194638&lptag=U86837228186&itime=20251016192929&pageType=PRODUCT&pageValue=7325194638&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016192929&redirect=landing&mcid=9f516849cb594e13b39977413065c92e"
+        }
+    },
+    {
+        "page": 14,
+        "name": "삼성전자 870 QVO 중고",
+        "image": "http://img.danawa.com/prod_img/500000/854/085/img/98085854_1.jpg?shrink=330:*&_v=20250923112639",
+        "pop_rank": "N/A",
+        "reg_date": "2020.12.",
+        "manufacturer": "삼성전자",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "6.4cm(2.5형)",
+            "interface": "SATA3 (6Gb/s)",
+            "capacity": "1TB",
+            "memory_type": "QLC",
+            "nand_structure": "3D낸드",
+            "ram_installed": "DRAM 탑재",
+            "ram_type": "DDR4 1GB",
+            "controller": "삼성 MKX",
+            "seq_read": "560MB/s",
+            "seq_write": "530MB/s",
+            "read_iops": "98K",
+            "write_iops": "88K",
+            "trim": true,
+            "GC": true,
+            "slc_caching": true,
+            "smart": true,
+            "DEVSLP": true,
+            "ecc": true,
+            "aes_encryption": true,
+            "mtbf": "150만시간",
+            "tbw": "360TB",
+            "width": "100mm",
+            "height": "69.85mm",
+            "thickness": "6.8mm",
+            "weight": "46g"
+        },
+        "price_info": [
+            {
+                "option": "4TB",
+                "price": "424,150",
+                "pcode": "97838735",
+                "link": "https://www.coupang.com/vp/products/7325304028?itemId=18795905984&vendorItemId=93677335367&src=1032034&spec=10305198&addtag=400&ctag=7325304028&lptag=U93677335367&itime=20251016193018&pageType=PRODUCT&pageValue=7325304028&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193018&redirect=landing&mcid=12bd97dff0f749168b0cfd1be6799168"
+            },
+            {
+                "option": "2TB",
+                "price": "240,000",
+                "pcode": "98918660",
+                "link": "https://www.coupang.com/vp/products/9081491780?itemId=26679647384&vendorItemId=93651825843&src=1032034&spec=10305198&addtag=400&ctag=9081491780&lptag=U93651825843&itime=20251016193037&pageType=PRODUCT&pageValue=9081491780&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193037&redirect=landing&mcid=d295dbd31ae44f2db241f5f9dde97553"
+            },
+            {
+                "option": "1TB",
+                "price": "134,100",
+                "pcode": "98085854",
+                "link": "https://www.coupang.com/vp/products/7325194638?itemId=18795466368&vendorItemId=86837228186&src=1032034&spec=10305198&addtag=400&ctag=7325194638&lptag=U86837228186&itime=20251016193055&pageType=PRODUCT&pageValue=7325194638&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193055&redirect=landing&mcid=320beae6a21e43f2a22ac631866811da"
+            }
+        ],
+        "lowest_price": {
+            "option": "1TB",
+            "price": "134,100",
+            "pcode": "98085854",
+            "link": "https://www.coupang.com/vp/products/7325194638?itemId=18795466368&vendorItemId=86837228186&src=1032034&spec=10305198&addtag=400&ctag=7325194638&lptag=U86837228186&itime=20251016193055&pageType=PRODUCT&pageValue=7325194638&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193055&redirect=landing&mcid=320beae6a21e43f2a22ac631866811da"
+        }
+    },
+    {
+        "page": 15,
+        "name": "RISEMADE GAMER LINE 해외구매",
+        "image": "http://img.danawa.com/prod_img/500000/773/013/img/74013773_1.jpg?shrink=330:*&_v=20250108194416",
+        "pop_rank": "N/A",
+        "reg_date": "2025.01.",
+        "manufacturer": "RISEMADE",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "6.4cm(2.5형)",
+            "interface": "SATA3 (6Gb/s)",
+            "capacity": "256GB",
+            "nand_structure": "3D낸드",
+            "controller": "기타",
+            "seq_read": "530MB/s",
+            "seq_write": "520MB/s",
+            "read_iops": "40K",
+            "write_iops": "86K",
+            "mtbf": "200만시간",
+            "thickness": "7mm"
+        },
+        "price_info": [
+            {
+                "option": "1TB",
+                "price": "97,190",
+                "pcode": "74013779",
+                "link": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=E698087524"
+            },
+            {
+                "option": "256GB",
+                "price": "34,600",
+                "pcode": "74013773",
+                "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4075478970&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": "256GB",
+            "price": "34,600",
+            "pcode": "74013773",
+            "link": "https://link.gmarket.co.kr/gate/pcs?item-no=4075478970&sub-id=1001&service-code=10000000&lcd=100000055&service_id=pcdn"
+        }
+    },
+    {
+        "page": 16,
+        "name": "상아전산 2.5 변환 가이드 (SA-DSC130)",
+        "image": "http://img.danawa.com/prod_img/500000/303/963/img/7963303_1.jpg?shrink=330:*&_v=20190520161327",
+        "pop_rank": "N/A",
+        "reg_date": "2019.05.",
+        "manufacturer": "상아전산",
+        "type": "케이스",
+        "options": {
+            "product_type": "SSD/HDD 주변기기",
+            "상세분류": "변환 가이드",
+            "크기 변환": "2.5형→3.5형",
+            "2.5형(6.4cm)": true,
+            "용도 구분": "SSD, HDD겸용",
+            "지원 두께": "7~9.5mm",
+            "보관(장착) 개수": "최대 1개",
+            "width": "130mm",
+            "height": "99mm",
+            "thickness": "14mm",
+            "오렌지": true
+        },
+        "price_info": [
+            {
+                "option": null,
+                "price": "530",
+                "pcode": "7963303",
+                "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F7977717688&service_id=pcdn"
+            }
+        ],
+        "lowest_price": {
+            "option": null,
+            "price": "530",
+            "pcode": "7963303",
+            "link": "https://smartstore.naver.com/inflow/ep/gw?url=%2Finflow%2Fep%2Fdanawa%2Fproducts%2F7977717688&service_id=pcdn"
+        }
+    },
+    {
+        "page": 17,
+        "name": "Seagate 파이어쿠다 510 M.2 NVMe 해외구매",
+        "image": "http://img.danawa.com/prod_img/500000/998/107/img/11107998_1.jpg?shrink=330:*&_v=20201118162121",
+        "pop_rank": "N/A",
+        "reg_date": "2019.05.",
+        "manufacturer": "Seagate",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe3.0x4 (32GT/s)",
+            "protocol": "NVMe 1.3",
+            "capacity": "1TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "seq_read": "3,450MB/s",
+            "seq_write": "3,200MB/s",
+            "read_iops": "최대 620K",
+            "write_iops": "최대 600K",
+            "software_tool": true,
+            "migration": true,
+            "management_tool": true,
+            "mtbf": "180만시간",
+            "tbw": "1,300TB",
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80.15mm",
+            "height": "22.15mm",
+            "thickness": "3.58mm",
+            "weight": "8.1g"
+        },
+        "price_info": [
+            {
+                "option": "1TB",
+                "price": "452,300",
+                "pcode": "11107998",
+                "link": "https://www.coupang.com/vp/products/8317518641?itemId=24005451621&vendorItemId=91026173302&src=1032034&spec=10305199&addtag=400&ctag=8317518641&lptag=I24005451621&itime=20251016193424&pageType=PRODUCT&pageValue=8317518641&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193424&redirect=landing&mcid=676dbdea98e3445cbde46190cd1c88dd"
+            }
+        ],
+        "lowest_price": {
+            "option": "1TB",
+            "price": "452,300",
+            "pcode": "11107998",
+            "link": "https://www.coupang.com/vp/products/8317518641?itemId=24005451621&vendorItemId=91026173302&src=1032034&spec=10305199&addtag=400&ctag=8317518641&lptag=I24005451621&itime=20251016193424&pageType=PRODUCT&pageValue=8317518641&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193424&redirect=landing&mcid=676dbdea98e3445cbde46190cd1c88dd"
+        }
+    },
+    {
+        "page": 18,
+        "name": "Seagate 파이어쿠다 510 M.2 NVMe 해외구매",
+        "image": "http://img.danawa.com/prod_img/500000/998/107/img/11107998_1.jpg?shrink=330:*&_v=20201118162121",
+        "pop_rank": "N/A",
+        "reg_date": "2019.05.",
+        "manufacturer": "Seagate",
+        "type": "케이스",
+        "options": {
+            "product_type": "내장형SSD",
+            "form_factor": "M.2 (2280)",
+            "interface": "PCIe3.0x4 (32GT/s)",
+            "protocol": "NVMe 1.3",
+            "capacity": "1TB",
+            "memory_type": "TLC",
+            "nand_structure": "3D낸드",
+            "seq_read": "3,450MB/s",
+            "seq_write": "3,200MB/s",
+            "read_iops": "최대 620K",
+            "write_iops": "최대 600K",
+            "software_tool": true,
+            "migration": true,
+            "management_tool": true,
+            "mtbf": "180만시간",
+            "tbw": "1,300TB",
+            "nvme_heatsink": "방열판 미포함",
+            "width": "80.15mm",
+            "height": "22.15mm",
+            "thickness": "3.58mm",
+            "weight": "8.1g"
+        },
+        "price_info": [
+            {
+                "option": "1TB",
+                "price": "452,300",
+                "pcode": "11107998",
+                "link": "https://www.coupang.com/vp/products/8317518641?itemId=24005451621&vendorItemId=91026173302&src=1032034&spec=10305199&addtag=400&ctag=8317518641&lptag=I24005451621&itime=20251016193459&pageType=PRODUCT&pageValue=8317518641&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193459&redirect=landing&mcid=74e735c6e11a4a619731cebc013b9505"
+            }
+        ],
+        "lowest_price": {
+            "option": "1TB",
+            "price": "452,300",
+            "pcode": "11107998",
+            "link": "https://www.coupang.com/vp/products/8317518641?itemId=24005451621&vendorItemId=91026173302&src=1032034&spec=10305199&addtag=400&ctag=8317518641&lptag=I24005451621&itime=20251016193459&pageType=PRODUCT&pageValue=8317518641&wPcid=17606097581513423605084&wRef=prod.danawa.com&wTime=20251016193459&redirect=landing&mcid=74e735c6e11a4a619731cebc013b9505"
+        }
+    }
+]

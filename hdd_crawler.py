@@ -260,7 +260,7 @@ def crawl_danana_hdd():
 
     wait = WebDriverWait(driver, 10)
 
-    # ✅ 목록 개수를 90으로 변경
+    # 목록 개수를 90으로 변경
     try:
         select_element = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR,
@@ -275,7 +275,7 @@ def crawl_danana_hdd():
     page = 1
 
     while True:
-        # ✅ 상품 로딩 대기
+        # 상품 로딩 대기
         try:
             wait.until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item"))
@@ -291,7 +291,7 @@ def crawl_danana_hdd():
             print(f"[END] {page}페이지에 상품 없음 → 종료")
             break
 
-        # ✅ 페이지 내 모든 상품 순회
+        # 페이지 내 모든 상품 순회
         for prod in products:
             name_tag = prod.select_one(".prod_info .prod_name a")
             date_tag = prod.select_one("dl.meta_item.mt_date dd")
@@ -376,7 +376,7 @@ def crawl_danana_hdd():
                 driver.close()
                 driver.switch_to.window(main_window)
 
-        # ✅ 다음 페이지 이동
+        # 다음 페이지 이동
         try:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(1)

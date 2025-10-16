@@ -11,10 +11,10 @@ import re
 
 def extract_pcode(url: str) -> str:
     """URL에서 pcode 추출"""
-    if not url or url == "N/A":
-        return "N/A"
+    if not url or url == "null":
+        return "null"
     m = re.search(r"pcode=(\d+)", url)
-    return m.group(1) if m else "N/A"
+    return m.group(1) if m else "null"
 
 
 def get_driver():
@@ -35,16 +35,16 @@ def get_detail_image(driver, url):
         soup = BeautifulSoup(driver.page_source, "html.parser")
         img_tag = soup.select_one("img#baseImage")
         if not img_tag:
-            return "N/A"
+            return "null"
 
         if img_tag.has_attr("data-original"):
             return img_tag["data-original"]
         elif img_tag.has_attr("src"):
             src = img_tag["src"]
             return "http:" + src if src.startswith("//") else src
-        return "N/A"
+        return "null"
     except Exception:
-        return "N/A"
+        return "null"
 
 
 def get_price_info(prod):
@@ -59,10 +59,10 @@ def get_price_info(prod):
         for li in li_tags:
 
             price_tag = li.select_one("p.price_sect a strong")
-            price = price_tag.get_text(strip=True) + "원" if price_tag else "N/A"
+            price = price_tag.get_text(strip=True) + "원" if price_tag else "null"
 
             unit_price_tag = li.select_one("p.memory_sect span.memory_price_sect")
-            unit_price = unit_price_tag.get_text(strip=True) if unit_price_tag else "N/A"
+            unit_price = unit_price_tag.get_text(strip=True) if unit_price_tag else "null"
 
             capacity_text = None
             cap_tag = li.select_one("p.memory_sect span.text")
@@ -102,17 +102,17 @@ def get_detail_buy_link(driver, url):
         if buy_tag and buy_tag.has_attr("href"):
             href = buy_tag["href"].strip()
             return "https:" + href if href.startswith("//") else href
-        return "N/A"
+        return "null"
     except Exception as e:
         print("get_detail_buy_link error:", e)
-        return "N/A"
+        return "null"
 
 
 def resolve_final_url_with_selenium(driver, url):
     """다나와 bridge 링크를 Selenium으로 열어서 최종 쇼핑몰 URL 추출"""
     try:
-        if not url or url == "N/A":
-            return "N/A"
+        if not url or url == "null":
+            return "null"
         driver.get(url)
         WebDriverWait(driver, 5).until(
             lambda d: "danawa.com/bridge" not in d.current_url
@@ -218,7 +218,7 @@ def get_addtional_info_memory(driver, url):
         return info_dict
 
     except Exception as e:
-        print("get_addtional_info_hdd error:", e)
+        print("get_addtional_info_memory error:", e)
         return {}
 
 
@@ -226,7 +226,7 @@ def get_addtional_info_memory(driver, url):
 # 전처리 작업
 def clean_number(text: str) -> int | None:
     """문자열에서 숫자만 추출 → int"""
-    if not text or text == "N/A":
+    if not text or text == "null":
         return None
     nums = re.sub(r"[^0-9]", "", text)
     return int(nums) if nums else None
@@ -246,14 +246,14 @@ def preprocess_product(product: dict) -> dict:
     return product
 
 
-def crawl_danana_hdd():
+def crawl_danawa_memory():
     driver = get_driver()
     url = "https://prod.danawa.com/list/?cate=112752"
     driver.get(url)
 
     wait = WebDriverWait(driver, 10)
 
-    # ✅ 목록 개수를 90으로 변경
+    # 목록 개수를 90으로 변경
     try:
         select_element = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR,
@@ -283,105 +283,98 @@ def crawl_danana_hdd():
         if not products:
             print(f"[END] {page}페이지에 상품 없음 → 종료")
             break
-        
-       # 각 페이지 첫 번째 상품
-        prod = products[0]
 
-        name_tag = prod.select_one(".prod_info .prod_name a")
-        date_tag = prod.select_one("dl.meta_item.mt_date dd")
-        rank_tag = prod.select_one("strong.pop_rank")
+        # 페이지 내 모든 상품 순회
+        for prod in products:
+            name_tag = prod.select_one(".prod_info .prod_name a")
+            date_tag = prod.select_one("dl.meta_item.mt_date dd")
+            rank_tag = prod.select_one("strong.pop_rank")
 
-        raw_rank = rank_tag.get_text(strip=True) if rank_tag else "N/A"
-        match = re.search(r"\d+", raw_rank) if raw_rank != "N/A" else None
-        pop_rank = int(match.group()) if match else "N/A"
+            raw_rank = rank_tag.get_text(strip=True) if rank_tag else "null"
+            match = re.search(r"\d+", raw_rank) if raw_rank != "null" else None
+            pop_rank = int(match.group()) if match else "null"
 
-        name = name_tag.text.strip() if name_tag else "N/A"
-        link = name_tag["href"] if name_tag else "N/A"
-        reg_date = date_tag.text.strip() if date_tag else "N/A"
+            name = name_tag.text.strip() if name_tag else "null"
+            link = name_tag["href"] if name_tag else "null"
+            reg_date = date_tag.text.strip() if date_tag else "null"
 
-        # 새 창 열기 (상세 페이지)
-        main_window = driver.current_window_handle
-        driver.execute_script("window.open(arguments[0]);", link)
-        driver.switch_to.window(driver.window_handles[-1])
+            # 새 창 열기 (상세 페이지)
+            main_window = driver.current_window_handle
+            driver.execute_script("window.open(arguments[0]);", link)
+            driver.switch_to.window(driver.window_handles[-1])
 
-        try:
-            # 상세 페이지 로딩
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "img#baseImage"))
-            )
-            img = get_detail_image(driver, link)
-            options = get_addtional_info_memory(driver, link) or {}
-            manufacturer = options.pop("manufacturer", "N/A")
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, "img#baseImage"))
+                )
+                img = get_detail_image(driver, link)
+                options = get_addtional_info_memory(driver, link) or {}
+                manufacturer = options.pop("manufacturer", "null")
 
-            # 가격 정보
-            price_info_list = get_price_info(prod)
+                price_info_list = get_price_info(prod)
 
-            product = {
-                "page": page,
-                "name": name,
-                "image": img,
-                "pop_rank": pop_rank,
-                "reg_date": reg_date,
-                "manufacturer": manufacturer,
-                "type": "메모리",
-                "options": options,
-                "price_info": [],
-            }
-
-            for opt in price_info_list:
-                pcode = opt.get("pcode")
-                if not pcode or pcode == "N/A":
-                    final_link = "N/A"
-                else:
-                    option_page = f"https://prod.danawa.com/info/?pcode={pcode}"
-
-                    # ✅ 최저가 링크 새 창 열기
-                    driver.execute_script("window.open(arguments[0]);", option_page)
-                    driver.switch_to.window(driver.window_handles[-1])
-                    try:
-                        option_bridge_url = get_detail_buy_link(driver, option_page)
-                        final_link = resolve_final_url_with_selenium(driver, option_bridge_url)
-                    except:
-                        final_link = "N/A"
-                    driver.close()  # 최저가 창 닫기
-                    driver.switch_to.window(driver.window_handles[-1])  # 상세 페이지로 복귀
-
-                product["price_info"].append({
-                    "option": opt.get("capacity", "N/A"),
-                    "price": opt.get("price", "N/A").replace("원", "").strip(),
-                    "pcode": pcode,
-                    "link": final_link
-                })
-
-            # 최저가 계산
-            valid_prices = []
-            for p in product["price_info"]:
-                digits = re.sub(r"[^\d]", "", p["price"])
-                if digits:
-                    valid_prices.append((int(digits), p))
-            if valid_prices:
-                _, lowest = min(valid_prices, key=lambda x: x[0])
-                product["lowest_price"] = lowest
-            else:
-                product["lowest_price"] = {
-                    "option": "N/A", "price": "N/A", "pcode": "N/A", "link": "N/A"
+                product = {
+                    "name": name,
+                    "image": img,
+                    "pop_rank": pop_rank,
+                    "reg_date": reg_date,
+                    "manufacturer": manufacturer,
+                    "type": "RAM",
+                    "options": options,
+                    "price_info": [],
                 }
 
-            results.append(product)
-            print(f"[INFO] {page}페이지 → {name}")
+                for opt in price_info_list:
+                    pcode = opt.get("pcode")
+                    if not pcode or pcode == "null":
+                        final_link = "null"
+                    else:
+                        option_page = f"https://prod.danawa.com/info/?pcode={pcode}"
 
-        finally:
-            # 상세 페이지 닫고 리스트 페이지로 복귀
-            driver.close()
-            driver.switch_to.window(main_window)
+                        driver.execute_script("window.open(arguments[0]);", option_page)
+                        driver.switch_to.window(driver.window_handles[-1])
+                        try:
+                            option_bridge_url = get_detail_buy_link(driver, option_page)
+                            final_link = resolve_final_url_with_selenium(driver, option_bridge_url)
+                        except:
+                            final_link = "null"
+                        driver.close()
+                        driver.switch_to.window(driver.window_handles[-1])
 
-        # ✅ 다음 페이지 이동
+                    product["price_info"].append({
+                        "option": opt.get("capacity", "null"),
+                        "price": opt.get("price", "null").replace("원", "").strip(),
+                        "pcode": pcode,
+                        "link": final_link
+                    })
+
+                # 최저가 계산
+                valid_prices = []
+                for p in product["price_info"]:
+                    digits = re.sub(r"[^\d]", "", p["price"])
+                    if digits:
+                        valid_prices.append((int(digits), p))
+                if valid_prices:
+                    _, lowest = min(valid_prices, key=lambda x: x[0])
+                    product["lowest_price"] = lowest
+                else:
+                    product["lowest_price"] = {
+                        "option": "null", "price": "null", "pcode": "null", "link": "null"
+                    }
+
+                results.append(product)
+                print(f"[INFO] {page}페이지 상품 → {name}")
+
+            finally:
+                driver.close()
+                driver.switch_to.window(main_window)
+
+        # 다음 페이지 이동
         try:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(1)
 
             if page % 10 == 0:
-                # 10, 20, 30... 페이지 → "다음 블록" 버튼
                 next_block = wait.until(
                     EC.element_to_be_clickable(
                         (By.CSS_SELECTOR, "#productListArea > div.prod_num_nav > div > a.edge_nav.nav_next")
@@ -389,7 +382,6 @@ def crawl_danana_hdd():
                 )
                 driver.execute_script("arguments[0].click();", next_block)
             else:
-                # 그 외→ 현재(now_on) 옆의 숫자 버튼
                 next_button = wait.until(
                     EC.element_to_be_clickable((By.CSS_SELECTOR, "a.num.now_on + a.num"))
                 )
@@ -403,17 +395,15 @@ def crawl_danana_hdd():
             break
 
     driver.quit()
-    save_to_json(results, "memory_danawa_test.json")
+    save_to_json(results, "ram_danawa.json")
     return results
 
-
-
-def save_to_json(results, filename="memory_danawa_test.json"):
+def save_to_json(results, filename="ram_danawa.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
-    results = crawl_danana_hdd()
-    save_to_json(results, "memory_danawa_test.json")
+    results = crawl_danawa_memory()
+    save_to_json(results, "ram_danawa.json")
     print("JSON 저장 완료")

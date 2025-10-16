@@ -268,7 +268,7 @@ def crawl_danawa_hdd():
 
     wait = WebDriverWait(driver, 10)
 
-    # ✅ 목록 개수를 90으로 변경
+    # 목록 개수를 90으로 변경
     try:
         select_element = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR,
@@ -350,7 +350,7 @@ def crawl_danawa_hdd():
                 else:
                     option_page = f"https://prod.danawa.com/info/?pcode={pcode}"
 
-                    # ✅ 최저가 링크 새 창 열기
+                    # 최저가 링크 새 창 열기
                     driver.execute_script("window.open(arguments[0]);", option_page)
                     driver.switch_to.window(driver.window_handles[-1])
                     try:
@@ -390,7 +390,7 @@ def crawl_danawa_hdd():
             driver.close()
             driver.switch_to.window(main_window)
 
-        # ✅ 다음 페이지 이동
+        # 다음 페이지 이동
         try:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(1)

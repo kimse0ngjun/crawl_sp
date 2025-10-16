@@ -286,7 +286,7 @@ def crawl_danawa_case():
     page = 1
 
     while True:
-        # ✅ 상품 로딩 대기
+        # 상품 로딩 대기
         try:
             wait.until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item"))
@@ -302,7 +302,7 @@ def crawl_danawa_case():
             print(f"[END] {page}페이지에 상품 없음 → 종료")
             break
 
-        # ✅ 각 페이지 첫 번째 상품
+        # 각 페이지 첫 번째 상품
         prod = products[0]
 
         name_tag = prod.select_one(".prod_info .prod_name a")
@@ -353,7 +353,7 @@ def crawl_danawa_case():
                 else:
                     option_page = f"https://prod.danawa.com/info/?pcode={pcode}"
 
-                    # ✅ 최저가 링크 새 창 열기
+                    # 최저가 링크 새 창 열기
                     driver.execute_script("window.open(arguments[0]);", option_page)
                     driver.switch_to.window(driver.window_handles[-1])
                     try:
@@ -393,7 +393,7 @@ def crawl_danawa_case():
             driver.close()
             driver.switch_to.window(main_window)
 
-        # ✅ 다음 페이지 이동
+        # 다음 페이지 이동
         try:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(1)
